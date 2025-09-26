@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de engenharia da computação no 6ª Periodo <br>- Desenvolvedor Full-Stack<br>- Entusiasta em IA e DBA</p>
+<p align="left">- Estudante de engenharia da computação no 8ª Periodo <br>- Desenvolvedor Full-Stack<br>- Entusiasta em IA</p>
 
 ###
 
